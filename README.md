@@ -14,6 +14,7 @@ A Philosophy of Software Design の輪読会のためのリポジトリ
 # 具体例
 - 30分お互いに読み進めて、メモをする
 - 30分議論する。議論中もメモを書いていく
+  - メモはこちらで行う予定: https://github.com/yorisilo/aposd/discussions/2
 
 # 参考
 本書は [Clean Code アジャイルソフトウェア達人の技【委託】 \- 達人出版会](https://tatsu-zine.com/books/clean-code) と相反することを書いてある箇所もある。 2nd edition では Clean Code の対比を取り上げたりする箇所が増えているっぽい。
